@@ -19,6 +19,7 @@ You can download this as a zip file. Basically you will have 3 different files:
   - data/demographics_de.csv
 
 2. A Jupyter Notebook
+
 Within this Notebook I did all the analysis I used for the medium article. Since this follows the same structure as the article it will answer you the following questions:
   - Which were the worst times for Germany during Corona?
   - How did the virus hit Germany in total?
@@ -29,3 +30,8 @@ Within this Notebook I did all the analysis I used for the medium article. Since
 
 3. A pics directory
 This directory just contains the pictures which I extracted from the Jupyter Notebook to put them into the medium article.
+
+4. A `requirements.txt` file
+This file contains all the packages you need to run this Notebook on your local machine.
+Just use the following `pip` to install the packages in you virtual in environment: `pip install -r requirements.txt`
+
