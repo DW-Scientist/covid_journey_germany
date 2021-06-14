@@ -32,6 +32,7 @@ Within this Notebook I did all the analysis I used for the medium article. Since
   - Which vaccines are preferred in Germany?
   - How many cases will we have at the end of July?
 
+Please make sure you install all the elements from element 4 `requirements.txt`. You need this to make the `plotly`charts visible.
 
 3. **A pics directory**
 This directory just contains the pictures which I extracted from the Jupyter Notebook to put them into the medium article.
