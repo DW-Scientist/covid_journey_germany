@@ -4,7 +4,7 @@
 
 This repository prepares all the analysis for a written article on Medium. You can find it by using the following link:
 
---> Link
+--> https://dennis-dylan-weber.medium.com/is-corona-over-in-germany-e3786b7f0e16
 
 ## Motivation
 As you can read up tones of articles every day about numbers and figures of Corona, I decided to build my own picture of the situation in my Home Country Germany. Within the article I mapped my numeric result with public sources from the internet. The whole analysis gave me a better overview abouthe Journey of Corona in Germany. I would love to read stories about your countries as well :).  
