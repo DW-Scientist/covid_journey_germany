@@ -1,4 +1,4 @@
-# covid_journey_germany
+# covid_journey_germany 😷🇩🇪
 
 ## Welcome to an Analysis of the Corona Journey in Germany
 
